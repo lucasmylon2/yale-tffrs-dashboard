@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# logs and scratch
+*.log
+men_team.html
+athlete_sample.html
+
+# cached raw HTML is re-downloaded each scrape; don't version it
+data/cache/
+
+# keep the committed datasets (data/results.csv, data/prs.csv) tracked

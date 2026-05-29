@@ -1,0 +1,38 @@
+name: Weekly TFRRS scrape
+
+on:
+  schedule:
+    # 11:00 UTC every Monday (~7am US Eastern in summer) — captures weekend meets
+    - cron: "0 11 * * 1"
+  workflow_dispatch: {}   # allows manual "Run workflow" from the Actions tab
+
+permissions:
+  contents: write          # needed to commit the refreshed CSVs back
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Scrape TFRRS
+        run: python scrape.py --refresh
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/results.csv data/prs.csv
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "Weekly TFRRS data refresh ($(date -u +%Y-%m-%d))"
+            git push
+          fi

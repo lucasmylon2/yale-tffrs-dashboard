@@ -1,0 +1,450 @@
+athlete_id,athlete,gender,event,mark,value,unit,kind,higher_better
+8330969,"Farr, Andrew",M,60,6.69,6.69,s,time,False
+8330969,"Farr, Andrew",M,100,10.56 (6.6),10.56,s,time,False
+8330969,"Farr, Andrew",M,200,21.87 (0.4),21.87,s,time,False
+8330969,"Farr, Andrew",M,300,35.47,35.47,s,time,False
+8330969,"Farr, Andrew",M,400,48.03,48.03,s,time,False
+8330969,"Farr, Andrew",M,500,1:04.24,64.24,s,time,False
+8330969,"Farr, Andrew",M,SP,"6.01m 19' 8.75""",6.01,m,distance,True
+9235648,"Miesak, Jozef",M,60,6.92,6.92,s,time,False
+9235648,"Miesak, Jozef",M,200,21.39 (1.0),21.39,s,time,False
+9235648,"Miesak, Jozef",M,400,47.68,47.68,s,time,False
+8916176,"Hom, Connor",M,800,1:49.83,109.83,s,time,False
+8916176,"Hom, Connor",M,1000,2:28.77,148.77,s,time,False
+8916176,"Hom, Connor",M,MILE,4:20.89,260.89,s,time,False
+8916176,"Hom, Connor",M,6K (XC),19:19.5,1159.5,s,time,False
+8916176,"Hom, Connor",M,8K (XC),26:02.7,1562.7,s,time,False
+7885551,"Karas, Owen",M,800,1:48.30,108.3,s,time,False
+7885551,"Karas, Owen",M,1000,2:23.62,143.62,s,time,False
+7885551,"Karas, Owen",M,1500,3:37.52,217.52,s,time,False
+7885551,"Karas, Owen",M,MILE,3:58.37,238.37,s,time,False
+7885551,"Karas, Owen",M,3000,7:51.68,471.68,s,time,False
+7885551,"Karas, Owen",M,5000,13:47.74,827.74,s,time,False
+7885551,"Karas, Owen",M,6K (XC),17:54.4,1074.4,s,time,False
+7885551,"Karas, Owen",M,8K (XC),23:20.4,1400.4,s,time,False
+7885551,"Karas, Owen",M,10K (XC),29:27.2,1767.2,s,time,False
+8626113,"Stevens, Guy",M,1500,3:49.61,229.61,s,time,False
+8626113,"Stevens, Guy",M,MILE,4:13.83,253.83,s,time,False
+8626113,"Stevens, Guy",M,3000,8:20.78,500.78,s,time,False
+8626113,"Stevens, Guy",M,5000,14:49.38,889.38,s,time,False
+8626113,"Stevens, Guy",M,8K (XC),24:37.8,1477.8,s,time,False
+8626113,"Stevens, Guy",M,5 MILE (XC),25:56.7,1556.7,s,time,False
+8236254,"Mader, Alex",M,1500,4:00.32,240.32,s,time,False
+8236254,"Mader, Alex",M,MILE,4:21.88,261.88,s,time,False
+8236254,"Mader, Alex",M,3000,8:18.63,498.63,s,time,False
+8236254,"Mader, Alex",M,5000,14:22.35,862.35,s,time,False
+8236254,"Mader, Alex",M,"10,000",29:56.16,1796.16,s,time,False
+8236254,"Mader, Alex",M,8K (XC),25:48.9,1548.9,s,time,False
+8236254,"Mader, Alex",M,10K (XC),31:22.5,1882.5,s,time,False
+8236254,"Mader, Alex",M,5 MILE (XC),26:04.7,1564.7,s,time,False
+9235646,"Martinez, Aiden",M,60H,8.20,8.2,s,time,False
+9235646,"Martinez, Aiden",M,110H,14.91 (+0.0),14.91,s,time,False
+9235646,"Martinez, Aiden",M,400H,53.11,53.11,s,time,False
+8833029,"Seidman, Benny",M,1500,3:59.89,239.89,s,time,False
+8833029,"Seidman, Benny",M,3000,8:54.34,534.34,s,time,False
+8833029,"Seidman, Benny",M,3000S,9:23.99,563.99,s,time,False
+8671493,Lucas Mylon,M,60,6.92,6.92,s,time,False
+8671493,Lucas Mylon,M,200,21.65 (2.3),21.65,s,time,False
+8671493,Lucas Mylon,M,400,48.84,48.84,s,time,False
+9235645,Graham Houghton,M,60,6.82,6.82,s,time,False
+9235645,Graham Houghton,M,100,10.82 (0.9),10.82,s,time,False
+9235645,Graham Houghton,M,200,22.13,22.13,s,time,False
+9235647,Ethan Johnson,M,60,6.99,6.99,s,time,False
+9235647,Ethan Johnson,M,200,21.42 (1.8),21.42,s,time,False
+9235647,Ethan Johnson,M,400,48.13,48.13,s,time,False
+8691124,Amare Fields,M,500,1:07.51,67.51,s,time,False
+8691124,Amare Fields,M,800,1:51.73,111.72999999999999,s,time,False
+8691124,Amare Fields,M,1000,2:23.88,143.88,s,time,False
+8691124,Amare Fields,M,1500,3:48.71,228.71,s,time,False
+8691124,Amare Fields,M,MILE,4:17.17,257.17,s,time,False
+8916173,Max Bishop,M,200,24.07,24.07,s,time,False
+8916173,Max Bishop,M,800,1:49.95,109.95,s,time,False
+8916173,Max Bishop,M,1000,2:25.15,145.15,s,time,False
+8916173,Max Bishop,M,1500,3:44.89,224.89,s,time,False
+8916173,Max Bishop,M,MILE,4:08.86,248.86,s,time,False
+8916173,Max Bishop,M,8K (XC),24:59.4,1499.4,s,time,False
+8671495,"Darlington, Jamaal",M,HJ,"2.01m 6' 7""",2.01,m,distance,True
+9235643,"Warren, Zack",M,HJ,"1.80m 5' 10.75""",1.8,m,distance,True
+9235643,"Warren, Zack",M,LJ,"6.58m (0.8) 21' 7.25""",6.58,m,distance,True
+8330967,"Di Bassinga, Brian",M,LJ,"6.37m 20' 10.75""",6.37,m,distance,True
+8330967,"Di Bassinga, Brian",M,TJ,"15.40m (2.5) 50' 6.25""",15.4,m,distance,True
+9235650,"Johnson, Alexander",M,SP,"16.51m 54' 2""",16.51,m,distance,True
+9235650,"Johnson, Alexander",M,DT,"50.35m 165' 2""",50.35,m,distance,True
+9235650,"Johnson, Alexander",M,HT,"52.87m 173' 5""",52.87,m,distance,True
+9235650,"Johnson, Alexander",M,WT,"15.77m 51' 9""",15.77,m,distance,True
+8671491,"Lebowitz, Nathan",M,SP,"13.45m 44' 1.5""",13.45,m,distance,True
+8671491,"Lebowitz, Nathan",M,DT,"54.71m 179' 6""",54.71,m,distance,True
+8671491,"Lebowitz, Nathan",M,HT,"38.26m 125' 6""",38.26,m,distance,True
+8671491,"Lebowitz, Nathan",M,WT,"17.25m 56' 7.25""",17.25,m,distance,True
+8671491,"Lebowitz, Nathan",M,JT,"48.89m 160' 5""",48.89,m,distance,True
+8330963,"Recker, Nolan",M,SP,"15.97m 52' 4.75""",15.97,m,distance,True
+8330963,"Recker, Nolan",M,DT,"52.87m 173' 5""",52.87,m,distance,True
+8330963,"Recker, Nolan",M,HT,"62.59m 205' 4""",62.59,m,distance,True
+8330963,"Recker, Nolan",M,WT,"21.04m 69' 0.5""",21.04,m,distance,True
+8330963,"Recker, Nolan",M,JT,"30.47m 100' 0""",30.47,m,distance,True
+8671496,"Anueyiagu, Chu",M,SP,"12.60m 41' 4.25""",12.6,m,distance,True
+8671496,"Anueyiagu, Chu",M,DT,"30.90m 101' 4""",30.9,m,distance,True
+8671496,"Anueyiagu, Chu",M,HT,"55.39m 181' 9""",55.39,m,distance,True
+8671496,"Anueyiagu, Chu",M,WT,"16.88m 55' 4.75""",16.88,m,distance,True
+8626107,"Bravo, Antonio",M,200,24.24,24.24,s,time,False
+8626107,"Bravo, Antonio",M,300,39.28,39.28,s,time,False
+8626107,"Bravo, Antonio",M,400,50.45,50.45,s,time,False
+8626107,"Bravo, Antonio",M,500,1:04.58,64.58,s,time,False
+8626107,"Bravo, Antonio",M,600,1:28.57,88.57,s,time,False
+8626107,"Bravo, Antonio",M,800,1:52.88,112.88,s,time,False
+8626107,"Bravo, Antonio",M,1500,4:10.32,250.32,s,time,False
+8626107,"Bravo, Antonio",M,JT,"41.47m 136' 1""",41.47,m,distance,True
+8983368,"Browne, Orion",M,LJ,"6.80m 22' 3.75""",6.8,m,distance,True
+8983368,"Browne, Orion",M,TJ,"14.85m (0.4) 48' 8.75""",14.85,m,distance,True
+8236256,"Chettiar, Tanish",M,800,1:52.34,112.34,s,time,False
+8236256,"Chettiar, Tanish",M,1000,2:27.45,147.45,s,time,False
+8236256,"Chettiar, Tanish",M,1500,3:51.21,231.21,s,time,False
+8236256,"Chettiar, Tanish",M,MILE,4:10.28,250.28,s,time,False
+8236256,"Chettiar, Tanish",M,3000,8:54.07,534.07,s,time,False
+8236256,"Chettiar, Tanish",M,6K (XC),18:39.0,1119.0,s,time,False
+8236256,"Chettiar, Tanish",M,8K (XC),25:42.0,1542.0,s,time,False
+9235642,"Chu, Jake",M,60,7.00,7.0,s,time,False
+9235642,"Chu, Jake",M,200,22.61,22.61,s,time,False
+9235642,"Chu, Jake",M,LJ,"6.84m 22' 5.25""",6.84,m,distance,True
+8916174,"Cohen, Lucas",M,1500,3:57.89,237.89,s,time,False
+8916174,"Cohen, Lucas",M,MILE,4:13.20,253.2,s,time,False
+8916174,"Cohen, Lucas",M,3000,8:20.92,500.92,s,time,False
+8916174,"Cohen, Lucas",M,5000,14:11.17,851.17,s,time,False
+8916174,"Cohen, Lucas",M,6K (XC),18:18.3,1098.3,s,time,False
+8916174,"Cohen, Lucas",M,8K (XC),24:23.0,1463.0,s,time,False
+8916174,"Cohen, Lucas",M,10K (XC),30:31.6,1831.6,s,time,False
+8916174,"Cohen, Lucas",M,5 MILE (XC),26:06.9,1566.9,s,time,False
+9224143,"Collier, Alden",M,1500,4:05.30,245.3,s,time,False
+9224143,"Collier, Alden",M,MILE,4:14.07,254.07,s,time,False
+8626108,"Cutter, Daegan",M,800,2:00.81,120.81,s,time,False
+8626108,"Cutter, Daegan",M,MILE,4:14.74,254.74,s,time,False
+8626108,"Cutter, Daegan",M,3000,8:17.31,497.31,s,time,False
+8626108,"Cutter, Daegan",M,5000,14:17.48,857.48,s,time,False
+8626108,"Cutter, Daegan",M,"10,000",29:38.86,1778.86,s,time,False
+8626108,"Cutter, Daegan",M,6K (XC),18:05.1,1085.1,s,time,False
+8626108,"Cutter, Daegan",M,8K (XC),24:00.7,1440.7,s,time,False
+8626108,"Cutter, Daegan",M,10K (XC),30:24.2,1824.2,s,time,False
+8626108,"Cutter, Daegan",M,5 MILE (XC),25:26.5,1526.5,s,time,False
+8833028,"Diaz, Jack",M,800,1:57.18,117.18,s,time,False
+8833028,"Diaz, Jack",M,1000,2:32.24,152.24,s,time,False
+8833028,"Diaz, Jack",M,1500,3:56.99,236.99,s,time,False
+8833028,"Diaz, Jack",M,MILE,4:19.52,259.52,s,time,False
+8833028,"Diaz, Jack",M,3000,8:47.86,527.86,s,time,False
+8833028,"Diaz, Jack",M,3000S,9:40.63,580.63,s,time,False
+9235649,"Englert, Max",M,400,51.31,51.31,s,time,False
+9235649,"Englert, Max",M,500,1:07.09,67.09,s,time,False
+8330968,"Evans, Mason",M,60,6.93,6.93,s,time,False
+8330968,"Evans, Mason",M,100,10.87 (3.3),10.87,s,time,False
+8626110,"Gamble, Brian",M,800,1:50.72,110.72,s,time,False
+8626110,"Gamble, Brian",M,1000,2:26.06,146.06,s,time,False
+8626110,"Gamble, Brian",M,1500,3:45.20,225.2,s,time,False
+8626110,"Gamble, Brian",M,MILE,4:06.53,246.53,s,time,False
+8626110,"Gamble, Brian",M,6K (XC),18:13.9,1093.9,s,time,False
+8626110,"Gamble, Brian",M,8K (XC),25:05.6,1505.6,s,time,False
+8626110,"Gamble, Brian",M,5 MILE (XC),26:32.9,1592.9,s,time,False
+9235644,"Goldwyn, Ben",M,TJ,"13.61m 44' 8""",13.61,m,distance,True
+9091865,"Hickox, Camden",M,60,7.00,7.0,s,time,False
+9091865,"Hickox, Camden",M,100,10.79 (5.4),10.79,s,time,False
+9091865,"Hickox, Camden",M,200,22.61 (2.1),22.61,s,time,False
+9091865,"Hickox, Camden",M,400,50.37,50.37,s,time,False
+8983369,"Irwin, Otis",M,200,22.74 (3.9),22.74,s,time,False
+8983369,"Irwin, Otis",M,400,47.75,47.75,s,time,False
+8983369,"Irwin, Otis",M,500,1:02.45,62.45,s,time,False
+9318629,"Kemp, Garon",M,60,7.23,7.23,s,time,False
+9318629,"Kemp, Garon",M,100,11.20 (1.3),11.2,s,time,False
+9318629,"Kemp, Garon",M,200,22.37 (+0.0),22.37,s,time,False
+8236257,"King, Braden",M,800,1:51.42,111.42,s,time,False
+8236257,"King, Braden",M,1000,2:24.89,144.89,s,time,False
+8236257,"King, Braden",M,1500,3:47.11,227.11,s,time,False
+8236257,"King, Braden",M,MILE,4:06.15,246.15,s,time,False
+8236257,"King, Braden",M,3000,8:17.85,497.85,s,time,False
+8236257,"King, Braden",M,5000,14:49.49,889.49,s,time,False
+8236257,"King, Braden",M,6K (XC),18:31.0,1111.0,s,time,False
+8236257,"King, Braden",M,8K (XC),24:08.4,1448.4,s,time,False
+8236257,"King, Braden",M,10K (XC),30:40.6,1840.6,s,time,False
+8983370,"Knapper, Otis",M,200,23.06,23.06,s,time,False
+8626111,"Luff, Ronan",M,800,1:53.98,113.97999999999999,s,time,False
+8626111,"Luff, Ronan",M,1000,2:28.59,148.59,s,time,False
+8626111,"Luff, Ronan",M,1500,3:51.61,231.61,s,time,False
+8626111,"Luff, Ronan",M,MILE,4:12.06,252.06,s,time,False
+8626111,"Luff, Ronan",M,8K (XC),24:27.6,1467.6,s,time,False
+9224141,"Manley, Magnus",M,800,1:55.06,115.06,s,time,False
+9224141,"Manley, Magnus",M,1000,2:26.63,146.63,s,time,False
+9224141,"Manley, Magnus",M,MILE,4:06.57,246.57,s,time,False
+9224141,"Manley, Magnus",M,3000,8:06.68,486.68,s,time,False
+9224141,"Manley, Magnus",M,5000,14:03.92,843.92,s,time,False
+9224141,"Manley, Magnus",M,8K (XC),24:49.5,1489.5,s,time,False
+9224141,"Manley, Magnus",M,10K (XC),30:42.0,1842.0,s,time,False
+9224142,"McNulty, Sean",M,800,1:52.77,112.77000000000001,s,time,False
+9224142,"McNulty, Sean",M,MILE,4:22.25,262.25,s,time,False
+8626112,"Montini, Caden",M,800,1:55.12,115.12,s,time,False
+8626112,"Montini, Caden",M,1000,2:27.46,147.46,s,time,False
+8626112,"Montini, Caden",M,1500,3:52.58,232.57999999999998,s,time,False
+8626112,"Montini, Caden",M,MILE,4:09.46,249.46,s,time,False
+8626112,"Montini, Caden",M,3000,8:34.06,514.06,s,time,False
+8626112,"Montini, Caden",M,8K (XC),26:30.5,1590.5,s,time,False
+8916177,"Murray, Keeran",M,800,1:52.46,112.46000000000001,s,time,False
+8916177,"Murray, Keeran",M,1000,2:24.66,144.66,s,time,False
+8916177,"Murray, Keeran",M,MILE,4:13.56,253.56,s,time,False
+8916177,"Murray, Keeran",M,6K (XC),19:36.9,1176.9,s,time,False
+8916177,"Murray, Keeran",M,8K (XC),26:29.2,1589.2,s,time,False
+8236253,"Pala, Kenan",M,800,1:57.77,117.77000000000001,s,time,False
+8236253,"Pala, Kenan",M,1000,2:28.23,148.23,s,time,False
+8236253,"Pala, Kenan",M,1500,3:56.91,236.91,s,time,False
+8236253,"Pala, Kenan",M,MILE,4:07.12,247.12,s,time,False
+8236253,"Pala, Kenan",M,3000,8:10.44,490.44,s,time,False
+8236253,"Pala, Kenan",M,5000,13:56.83,836.83,s,time,False
+8236253,"Pala, Kenan",M,"10,000",30:12.50,1812.5,s,time,False
+8236253,"Pala, Kenan",M,6K (XC),18:27.6,1107.6,s,time,False
+8236253,"Pala, Kenan",M,8K (XC),23:44.3,1424.3,s,time,False
+8236253,"Pala, Kenan",M,10K (XC),29:31.1,1771.1,s,time,False
+8236253,"Pala, Kenan",M,5 MILE (XC),25:39.7,1539.7,s,time,False
+8671494,"Quinn, Finnegan",M,400,48.51,48.51,s,time,False
+8671494,"Quinn, Finnegan",M,500,1:03.97,63.97,s,time,False
+8916178,"Schutzbank, Matthew",M,800,1:55.07,115.07,s,time,False
+8916178,"Schutzbank, Matthew",M,1000,2:28.05,148.05,s,time,False
+8916178,"Schutzbank, Matthew",M,1500,3:51.15,231.15,s,time,False
+8916178,"Schutzbank, Matthew",M,MILE,4:17.91,257.91,s,time,False
+8916178,"Schutzbank, Matthew",M,3000,8:32.81,512.81,s,time,False
+8916178,"Schutzbank, Matthew",M,8K (XC),25:02.0,1502.0,s,time,False
+8626133,"Sheehy, Will",M,1500,4:05.36,245.36,s,time,False
+8626133,"Sheehy, Will",M,MILE,4:20.86,260.86,s,time,False
+8626133,"Sheehy, Will",M,3000,8:44.99,524.99,s,time,False
+8626133,"Sheehy, Will",M,5000,14:49.38,889.38,s,time,False
+8626133,"Sheehy, Will",M,"10,000",31:26.83,1886.83,s,time,False
+8626133,"Sheehy, Will",M,8K (XC),25:11.6,1511.6,s,time,False
+8626133,"Sheehy, Will",M,5 MILE (XC),27:25.4,1645.4,s,time,False
+9224140,"Strichartz, Remy",M,MILE,4:18.78,258.78,s,time,False
+8833027,"Sullivan, Liam",M,800,1:58.32,118.32,s,time,False
+8833027,"Sullivan, Liam",M,1000,2:34.94,154.94,s,time,False
+8833027,"Sullivan, Liam",M,1500,4:02.66,242.66,s,time,False
+8833027,"Sullivan, Liam",M,MILE,4:26.26,266.26,s,time,False
+8330964,"Sun, Jake",M,SP,"10.10m 33' 1.75""",10.1,m,distance,True
+8330964,"Sun, Jake",M,DT,"31.31m 102' 9""",31.31,m,distance,True
+8330964,"Sun, Jake",M,HT,"59.60m 195' 6""",59.6,m,distance,True
+8330964,"Sun, Jake",M,WT,"18.47m 60' 7.25""",18.47,m,distance,True
+8916181,"Sutch, Seb",M,800,1:56.06,116.06,s,time,False
+8916181,"Sutch, Seb",M,1500,3:48.25,228.25,s,time,False
+8916181,"Sutch, Seb",M,MILE,4:09.61,249.61,s,time,False
+8916181,"Sutch, Seb",M,3000,8:27.82,507.82,s,time,False
+8916181,"Sutch, Seb",M,5000,14:58.47,898.47,s,time,False
+8916181,"Sutch, Seb",M,6K (XC),19:16.0,1156.0,s,time,False
+8916181,"Sutch, Seb",M,8K (XC),24:51.2,1491.2,s,time,False
+8916181,"Sutch, Seb",M,5 MILE (XC),26:26.0,1586.0,s,time,False
+9235651,"Thomas, James",M,1500,4:07.20,247.2,s,time,False
+9235651,"Thomas, James",M,MILE,4:19.92,259.92,s,time,False
+9235651,"Thomas, James",M,3000,9:11.52,551.52,s,time,False
+9235651,"Thomas, James",M,3000S,9:56.43,596.43,s,time,False
+8330972,"Wessel, Elliot",M,PV,"4.50m 14' 9""",4.5,m,distance,True
+8671562,"Kosmont, Juliette",F,60,7.30,7.3,s,time,False
+8671562,"Kosmont, Juliette",F,100,11.28 (1.4),11.28,s,time,False
+8671562,"Kosmont, Juliette",F,200,23.94 (0.8),23.94,s,time,False
+8671559,"Guerrier, Gloria",F,60,8.01,8.01,s,time,False
+8671559,"Guerrier, Gloria",F,200,24.91 (0.8),24.91,s,time,False
+8671559,"Guerrier, Gloria",F,400,54.19,54.19,s,time,False
+8671559,"Guerrier, Gloria",F,500,1:12.21,72.21000000000001,s,time,False
+8671559,"Guerrier, Gloria",F,400H,58.72,58.72,s,time,False
+8671560,"Guerrier, Victoria",F,200,25.08 (0.7),25.08,s,time,False
+8671560,"Guerrier, Victoria",F,400,54.79,54.79,s,time,False
+8671560,"Guerrier, Victoria",F,500,1:11.44,71.44,s,time,False
+8671560,"Guerrier, Victoria",F,800,2:03.07,123.07,s,time,False
+8330981,"Fonville, Linde",F,800,2:08.26,128.26,s,time,False
+8330981,"Fonville, Linde",F,1000,2:48.09,168.09,s,time,False
+8330981,"Fonville, Linde",F,1500,4:19.72,259.72,s,time,False
+8330981,"Fonville, Linde",F,MILE,4:45.68,285.68,s,time,False
+8330981,"Fonville, Linde",F,3000,9:37.85,577.85,s,time,False
+8626123,"Henderson, Daniella",F,800,2:12.31,132.31,s,time,False
+8626123,"Henderson, Daniella",F,1000,2:49.89,169.89,s,time,False
+8626123,"Henderson, Daniella",F,1500,4:27.57,267.57,s,time,False
+8626123,"Henderson, Daniella",F,MILE,4:52.47,292.47,s,time,False
+8626123,"Henderson, Daniella",F,3000,9:52.13,592.13,s,time,False
+8626123,"Henderson, Daniella",F,4K (XC),15:02.5,902.5,s,time,False
+8626123,"Henderson, Daniella",F,5K (XC),18:54.2,1134.2,s,time,False
+8626123,"Henderson, Daniella",F,6K (XC),21:05.5,1265.5,s,time,False
+8916252,"Piot, Julie",F,3000,10:14.42,614.42,s,time,False
+8916252,"Piot, Julie",F,4K (XC),15:01.5,901.5,s,time,False
+9163717,"Benun, Phoebe",F,MILE,4:51.49,291.49,s,time,False
+9163717,"Benun, Phoebe",F,3000,9:21.66,561.66,s,time,False
+9163717,"Benun, Phoebe",F,5000,16:22.98,982.98,s,time,False
+9163717,"Benun, Phoebe",F,3000S,10:17.12,617.12,s,time,False
+9163717,"Benun, Phoebe",F,5K (XC),18:49.4,1129.4,s,time,False
+9163717,"Benun, Phoebe",F,6K (XC),20:34.8,1234.8,s,time,False
+8330990,"Whitehurst, Charlotte",F,800,2:31.96,151.96,s,time,False
+8330990,"Whitehurst, Charlotte",F,1000,2:55.90,175.9,s,time,False
+8330990,"Whitehurst, Charlotte",F,1500,4:31.13,271.13,s,time,False
+8330990,"Whitehurst, Charlotte",F,MILE,5:00.84,300.84,s,time,False
+8330990,"Whitehurst, Charlotte",F,3000,9:28.70,568.7,s,time,False
+8330990,"Whitehurst, Charlotte",F,5000,16:11.90,971.9,s,time,False
+8330990,"Whitehurst, Charlotte",F,"10,000",34:22.62,2062.62,s,time,False
+8671558,"Grd, Lucija",F,60,7.76,7.76,s,time,False
+8671558,"Grd, Lucija",F,100,11.85 (4.1),11.85,s,time,False
+8671558,"Grd, Lucija",F,200,25.56,25.56,s,time,False
+8671558,"Grd, Lucija",F,60H,8.29,8.29,s,time,False
+8671558,"Grd, Lucija",F,100H,13.43 (1.2),13.43,s,time,False
+8916251,"Martonfi, Zoe",F,800,2:13.57,133.57,s,time,False
+8916251,"Martonfi, Zoe",F,1000,2:52.78,172.78,s,time,False
+8916251,"Martonfi, Zoe",F,1500,4:25.17,265.17,s,time,False
+8916251,"Martonfi, Zoe",F,MILE,4:49.44,289.44,s,time,False
+8916251,"Martonfi, Zoe",F,3000,9:37.59,577.59,s,time,False
+8916251,"Martonfi, Zoe",F,3000S,10:16.68,616.68,s,time,False
+8916251,"Martonfi, Zoe",F,4K (XC),15:22.5,922.5,s,time,False
+8916251,"Martonfi, Zoe",F,5K (XC),18:56.8,1136.8,s,time,False
+8916251,"Martonfi, Zoe",F,6K (XC),21:19.1,1279.1,s,time,False
+8691190,Sophie Spokes,F,60,7.55,7.55,s,time,False
+8691190,Sophie Spokes,F,100,11.95 (0.5),11.95,s,time,False
+8691190,Sophie Spokes,F,200,24.57 (0.2),24.57,s,time,False
+8691190,Sophie Spokes,F,300,41.42,41.42,s,time,False
+8330987,Casia Provencal,F,60,7.83,7.83,s,time,False
+8330987,Casia Provencal,F,100,12.28 (6.0),12.28,s,time,False
+8330987,Casia Provencal,F,200,25.63,25.63,s,time,False
+8330987,Casia Provencal,F,60H,8.94,8.94,s,time,False
+8330987,Casia Provencal,F,100H,14.64 (0.2),14.64,s,time,False
+8671561,Lola Isom,F,200,26.68,26.68,s,time,False
+8671561,Lola Isom,F,400,59.88,59.88,s,time,False
+8671561,Lola Isom,F,500,1:16.45,76.45,s,time,False
+8671561,Lola Isom,F,400H,1:02.15,62.15,s,time,False
+8330979,Anna Chamberlin,F,800,2:10.26,130.26,s,time,False
+8330979,Anna Chamberlin,F,1000,2:52.84,172.84,s,time,False
+8330979,Anna Chamberlin,F,MILE,4:59.75,299.75,s,time,False
+8626124,Priya Gangadharan,F,800,2:11.77,131.77,s,time,False
+8626124,Priya Gangadharan,F,1500,4:46.36,286.36,s,time,False
+8626124,Priya Gangadharan,F,MILE,5:13.36,313.36,s,time,False
+8626124,Priya Gangadharan,F,4K (XC),15:41.5,941.5,s,time,False
+8626124,Priya Gangadharan,F,5K (XC),19:32.1,1172.1,s,time,False
+8626124,Priya Gangadharan,F,6K (XC),22:36.5,1356.5,s,time,False
+8916253,Sylvie Sanok Dufallo,F,800,2:09.63,129.63,s,time,False
+8916253,Sylvie Sanok Dufallo,F,1000,2:53.48,173.48,s,time,False
+8916253,Sylvie Sanok Dufallo,F,1500,4:36.44,276.44,s,time,False
+8916253,Sylvie Sanok Dufallo,F,MILE,4:54.07,294.07,s,time,False
+8916253,Sylvie Sanok Dufallo,F,4K (XC),15:13.3,913.3,s,time,False
+8916253,Sylvie Sanok Dufallo,F,5K (XC),19:04.1,1144.1,s,time,False
+8916253,Sylvie Sanok Dufallo,F,6K (XC),21:11.8,1271.8,s,time,False
+9235656,"Kaase, Layni",F,200,25.50 (0.7),25.5,s,time,False
+9235656,"Kaase, Layni",F,800,2:28.09,148.09,s,time,False
+9235656,"Kaase, Layni",F,60H,8.87,8.87,s,time,False
+9235656,"Kaase, Layni",F,100H,14.17 (0.7),14.17,s,time,False
+9235656,"Kaase, Layni",F,HJ,"1.67m 5' 5.75""",1.67,m,distance,True
+9235656,"Kaase, Layni",F,LJ,"5.47m (-1.4) 17' 11.5""",5.47,m,distance,True
+9235656,"Kaase, Layni",F,SP,"9.84m 32' 3.5""",9.84,m,distance,True
+9235656,"Kaase, Layni",F,JT,"24.25m 79' 7""",24.25,m,distance,True
+9235656,"Kaase, Layni",F,PENT,3545,3545.0,pts,points,True
+9235656,"Kaase, Layni",F,HEP,4813,4813.0,pts,points,True
+9235653,"Sathiyan, Shreya",F,PV,"3.65m 11' 11.75""",3.65,m,distance,True
+8330989,"White, Makayla",F,60,7.73,7.73,s,time,False
+8330989,"White, Makayla",F,100,12.09 (2.1),12.09,s,time,False
+8330989,"White, Makayla",F,200,25.32 (0.8),25.32,s,time,False
+8330989,"White, Makayla",F,800,2:30.10,150.1,s,time,False
+8330989,"White, Makayla",F,60H,9.15,9.15,s,time,False
+8330989,"White, Makayla",F,60H,9.35,9.35,s,time,False
+8330989,"White, Makayla",F,100H,14.91 (0.8),14.91,s,time,False
+8330989,"White, Makayla",F,HJ,"1.55m 5' 1""",1.55,m,distance,True
+8330989,"White, Makayla",F,LJ,"5.71m (2.3) 18' 9""",5.71,m,distance,True
+8330989,"White, Makayla",F,SP,"11.16m 36' 7.5""",11.16,m,distance,True
+8330989,"White, Makayla",F,JT,"32.50m 106' 7""",32.5,m,distance,True
+8330989,"White, Makayla",F,PENT,3346,3346.0,pts,points,True
+8330989,"White, Makayla",F,HEP,4902,4902.0,pts,points,True
+8671557,"Bonn, Alexandra",F,LJ,"5.30m 17' 4.75""",5.3,m,distance,True
+8671557,"Bonn, Alexandra",F,TJ,"11.88m (0.2) 38' 11.75""",11.88,m,distance,True
+7985056,"Harris, Makayla",F,SP,"14.32m 46' 11.75""",14.32,m,distance,True
+7985056,"Harris, Makayla",F,DT,"37.67m 123' 7""",37.67,m,distance,True
+7985056,"Harris, Makayla",F,HT,"49.59m 162' 8""",49.59,m,distance,True
+7985056,"Harris, Makayla",F,WT,"18.28m 59' 11.75""",18.28,m,distance,True
+8983495,"Siciliano, Anna",F,SP,"14.43m 47' 4.25""",14.43,m,distance,True
+8983495,"Siciliano, Anna",F,DT,"43.87m 143' 11""",43.87,m,distance,True
+8983495,"Siciliano, Anna",F,WT,"13.61m 44' 8""",13.61,m,distance,True
+8983491,"Graham, Hannah",F,SP,"10.83m 35' 6.5""",10.83,m,distance,True
+8983491,"Graham, Hannah",F,DT,"37.36m 122' 7""",37.36,m,distance,True
+8983491,"Graham, Hannah",F,HT,"51.64m 169' 5""",51.64,m,distance,True
+8983491,"Graham, Hannah",F,WT,"16.41m 53' 10.25""",16.41,m,distance,True
+9235658,"Acevedo, Constanza",F,JT,"48.47m 159' 0""",48.47,m,distance,True
+8983490,"Anderson, Alyssa",F,100,13.88 (0.1),13.88,s,time,False
+8983490,"Anderson, Alyssa",F,200,26.92 (0.5),26.92,s,time,False
+8983490,"Anderson, Alyssa",F,800,2:41.43,161.43,s,time,False
+8983490,"Anderson, Alyssa",F,60H,9.68,9.68,s,time,False
+8983490,"Anderson, Alyssa",F,100H,16.83 (-0.6),16.83,s,time,False
+8983490,"Anderson, Alyssa",F,HJ,"1.42m 4' 7.75""",1.42,m,distance,True
+8983490,"Anderson, Alyssa",F,LJ,"5.63m 18' 5.75""",5.63,m,distance,True
+8983490,"Anderson, Alyssa",F,SP,"9.56m 31' 4.5""",9.56,m,distance,True
+8983490,"Anderson, Alyssa",F,JT,"30.01m 98' 5""",30.01,m,distance,True
+8983490,"Anderson, Alyssa",F,PENT,3033,3033.0,pts,points,True
+8983490,"Anderson, Alyssa",F,HEP,3080,3080.0,pts,points,True
+8330975,"Archer, Claire",F,1500,4:33.61,273.61,s,time,False
+8330975,"Archer, Claire",F,MILE,4:53.83,293.83,s,time,False
+8330975,"Archer, Claire",F,3000,9:38.40,578.4,s,time,False
+8330975,"Archer, Claire",F,5000,16:19.99,979.99,s,time,False
+8330976,"Barton, Ruby",F,500,1:19.59,79.59,s,time,False
+8330976,"Barton, Ruby",F,800,2:15.89,135.89,s,time,False
+8330976,"Barton, Ruby",F,1000,2:58.51,178.51,s,time,False
+8330976,"Barton, Ruby",F,1500,4:44.29,284.29,s,time,False
+8330976,"Barton, Ruby",F,MILE,5:06.29,306.29,s,time,False
+8330978,"Carlos, Marina",F,1500,5:01.03,301.03,s,time,False
+8330978,"Carlos, Marina",F,MILE,5:11.38,311.38,s,time,False
+8330978,"Carlos, Marina",F,3000,10:38.99,638.99,s,time,False
+8330978,"Carlos, Marina",F,5000,18:55.43,1135.43,s,time,False
+9163718,"Carter, Zoe",F,5K (XC),20:18.6,1218.6,s,time,False
+8626125,"Chadwick, Hebe",F,1500,4:24.49,264.49,s,time,False
+8626125,"Chadwick, Hebe",F,MILE,4:48.13,288.13,s,time,False
+8626125,"Chadwick, Hebe",F,3000,9:25.70,565.7,s,time,False
+8626125,"Chadwick, Hebe",F,5K (XC),18:33.5,1113.5,s,time,False
+8626125,"Chadwick, Hebe",F,6K (XC),20:35.1,1235.1,s,time,False
+8330982,"Glessing, Caroline",F,60,7.99,7.99,s,time,False
+8330982,"Glessing, Caroline",F,100,12.97 (1.7),12.97,s,time,False
+8330982,"Glessing, Caroline",F,200,25.56 (2.5),25.56,s,time,False
+8330982,"Glessing, Caroline",F,300,41.43,41.43,s,time,False
+8330982,"Glessing, Caroline",F,LJ,"5.47m (0.9) 17' 11.5""",5.47,m,distance,True
+8916247,"Heijnen, Charo",F,MILE,5:10.48,310.48,s,time,False
+8916247,"Heijnen, Charo",F,4K (XC),14:44.7,884.7,s,time,False
+8916247,"Heijnen, Charo",F,6K (XC),22:14.5,1334.5,s,time,False
+8983492,"Hudacsko, Elaine",F,60,8.04,8.04,s,time,False
+8983492,"Hudacsko, Elaine",F,200,25.24 (2.4),25.24,s,time,False
+8983492,"Hudacsko, Elaine",F,400,58.01,58.01,s,time,False
+8916248,"Jin, Lily",F,MILE,5:07.67,307.67,s,time,False
+8916248,"Jin, Lily",F,3000,10:21.30,621.3,s,time,False
+8916248,"Jin, Lily",F,4K (XC),15:56.5,956.5,s,time,False
+8916248,"Jin, Lily",F,5K (XC),19:24.7,1164.7,s,time,False
+8916248,"Jin, Lily",F,6K (XC),21:53.0,1313.0,s,time,False
+8330984,"Joyce, Cara",F,500,1:20.95,80.95,s,time,False
+8330984,"Joyce, Cara",F,800,2:13.87,133.87,s,time,False
+8330984,"Joyce, Cara",F,1000,2:51.89,171.89,s,time,False
+8330984,"Joyce, Cara",F,1500,4:40.36,280.36,s,time,False
+8330984,"Joyce, Cara",F,MILE,5:09.68,309.68,s,time,False
+8983493,"Lanz, Squirrel",F,60H,8.80,8.8,s,time,False
+8983493,"Lanz, Squirrel",F,100H,14.40 (2.5),14.4,s,time,False
+8983493,"Lanz, Squirrel",F,400H,1:02.22,62.22,s,time,False
+8330985,"Lorsbach, Miranda",F,1000,3:11.54,191.54,s,time,False
+8330985,"Lorsbach, Miranda",F,1500,4:52.51,292.51,s,time,False
+8330985,"Lorsbach, Miranda",F,MILE,5:11.39,311.39,s,time,False
+8330985,"Lorsbach, Miranda",F,3000,10:17.64,617.64,s,time,False
+8330985,"Lorsbach, Miranda",F,5000,17:35.85,1055.85,s,time,False
+8330985,"Lorsbach, Miranda",F,"10,000",36:20.89,2180.89,s,time,False
+8916249,"Lovshin, Muriel",F,MILE,5:11.57,311.57,s,time,False
+8916249,"Lovshin, Muriel",F,4K (XC),14:41.1,881.1,s,time,False
+8916249,"Lovshin, Muriel",F,6K (XC),21:16.2,1276.2,s,time,False
+8983494,"McElroy, Kenzie",F,60,8.13,8.13,s,time,False
+8983494,"McElroy, Kenzie",F,100,12.92 (3.6),12.92,s,time,False
+8983494,"McElroy, Kenzie",F,200,25.43,25.43,s,time,False
+8983494,"McElroy, Kenzie",F,LJ,"5.52m 18' 1.5""",5.52,m,distance,True
+8671563,"Peretti, Emma",F,SP,"13.92m 45' 8""",13.92,m,distance,True
+8671563,"Peretti, Emma",F,DT,"38.73m 127' 1""",38.73,m,distance,True
+8671563,"Peretti, Emma",F,HT,"47.46m 155' 8""",47.46,m,distance,True
+8671563,"Peretti, Emma",F,WT,"14.68m 48' 2""",14.68,m,distance,True
+8671563,"Peretti, Emma",F,JT,"24.10m 79' 1""",24.1,m,distance,True
+8330986,"Poe, Marisa",F,1500,5:01.52,301.52,s,time,False
+8330986,"Poe, Marisa",F,MILE,5:11.61,311.61,s,time,False
+8330986,"Poe, Marisa",F,3000,10:02.52,602.52,s,time,False
+8330986,"Poe, Marisa",F,5000,17:48.42,1068.42,s,time,False
+9163719,"Polay, Sophie",F,3000,10:15.14,615.14,s,time,False
+9235659,"Quaranta, Maya",F,SP,"12.38m 40' 7.5""",12.38,m,distance,True
+9235659,"Quaranta, Maya",F,WT,"12.39m 40' 7.75""",12.39,m,distance,True
+9235655,"Signorelli, Milla",F,PV,"3.70m 12' 1.5""",3.7,m,distance,True
+9235652,"Varma, Sofia",F,60,7.84,7.84,s,time,False
+9235652,"Varma, Sofia",F,100,12.85 (-0.3),12.85,s,time,False
+9235652,"Varma, Sofia",F,LJ,"5.61m 18' 5""",5.61,m,distance,True
+9235652,"Varma, Sofia",F,TJ,"11.58m 38' 0""",11.58,m,distance,True
+9235654,"Webb, Penelope",F,HJ,"1.65m 5' 5""",1.65,m,distance,True
+8330991,"Williams, Charlie",F,HT,"50.22m 164' 9""",50.22,m,distance,True
+8330991,"Williams, Charlie",F,WT,"13.95m 45' 9.25""",13.95,m,distance,True
+8983496,"Yella, Anjali",F,60,7.99,7.99,s,time,False
+8983496,"Yella, Anjali",F,200,25.29 (2.4),25.29,s,time,False
+8983496,"Yella, Anjali",F,400,58.04,58.04,s,time,False
+8983496,"Yella, Anjali",F,LJ,"5.16m 16' 11.25""",5.16,m,distance,True
