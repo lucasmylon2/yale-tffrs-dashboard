@@ -336,7 +336,7 @@ athlete_id,athlete,gender,event,mark,value,unit,kind,higher_better
 8330989,"White, Makayla",F,800,2:30.10,150.1,s,time,False
 8330989,"White, Makayla",F,60H,9.15,9.15,s,time,False
 8330989,"White, Makayla",F,60H,9.35,9.35,s,time,False
-8330989,"White, Makayla",F,100H,14.91 (0.8),14.91,s,time,False
+8330989,"White, Makayla",F,100H,14.90 (1.1),14.9,s,time,False
 8330989,"White, Makayla",F,HJ,"1.55m 5' 1""",1.55,m,distance,True
 8330989,"White, Makayla",F,LJ,"5.71m (2.3) 18' 9""",5.71,m,distance,True
 8330989,"White, Makayla",F,SP,"11.16m 36' 7.5""",11.16,m,distance,True
@@ -361,7 +361,7 @@ athlete_id,athlete,gender,event,mark,value,unit,kind,higher_better
 8983490,"Anderson, Alyssa",F,200,26.92 (0.5),26.92,s,time,False
 8983490,"Anderson, Alyssa",F,800,2:41.43,161.43,s,time,False
 8983490,"Anderson, Alyssa",F,60H,9.68,9.68,s,time,False
-8983490,"Anderson, Alyssa",F,100H,16.83 (-0.6),16.83,s,time,False
+8983490,"Anderson, Alyssa",F,100H,16.37 (0.3),16.37,s,time,False
 8983490,"Anderson, Alyssa",F,HJ,"1.42m 4' 7.75""",1.42,m,distance,True
 8983490,"Anderson, Alyssa",F,LJ,"5.63m 18' 5.75""",5.63,m,distance,True
 8983490,"Anderson, Alyssa",F,SP,"9.56m 31' 4.5""",9.56,m,distance,True
