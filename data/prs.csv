@@ -78,6 +78,8 @@ athlete_id,athlete,gender,event,mark,value,unit,kind,higher_better
 8916178,"Schutzbank, Matthew",M,8K (XC),25:02.0,1502.0,s,time,False
 8916179,"Seidman, Benny",M,6K (XC),19:48.6,1188.6,s,time,False
 8916179,"Seidman, Benny",M,8K (XC),25:54.8,1554.8,s,time,False
+9442539,"Siekenwitz, Colter",M,8K (XC),26:27.4,1587.4,s,time,False
+9442529,"Sigworth, Blake",M,8K (XC),26:02.1,1562.1,s,time,False
 8626113,"Stevens, Guy",M,1500,3:49.61,229.61,s,time,False
 8626113,"Stevens, Guy",M,MILE,4:13.83,253.83,s,time,False
 8626113,"Stevens, Guy",M,3000,8:20.78,500.78,s,time,False
@@ -106,6 +108,7 @@ athlete_id,athlete,gender,event,mark,value,unit,kind,higher_better
 9163717,"Benun, Phoebe",F,6K (XC),20:34.8,1234.8,s,time,False
 9163718,"Carter, Zoe",F,4K (XC),16:03.5,963.5,s,time,False
 9163718,"Carter, Zoe",F,5K (XC),20:18.6,1218.6,s,time,False
+9163718,"Carter, Zoe",F,6K (XC),23:31.3,1411.3,s,time,False
 8626125,"Chadwick, Hebe",F,1500,4:24.49,264.49,s,time,False
 8626125,"Chadwick, Hebe",F,MILE,4:48.13,288.13,s,time,False
 8626125,"Chadwick, Hebe",F,3000,9:25.70,565.7,s,time,False
@@ -113,6 +116,7 @@ athlete_id,athlete,gender,event,mark,value,unit,kind,higher_better
 8626125,"Chadwick, Hebe",F,5K (XC),18:33.5,1113.5,s,time,False
 8626125,"Chadwick, Hebe",F,6K (XC),20:35.1,1235.1,s,time,False
 9439994,"Douglas, Naomi",F,4K (XC),14:59.2,899.2,s,time,False
+9439994,"Douglas, Naomi",F,6K (XC),21:30.3,1290.3,s,time,False
 9439993,"Frawley, Emily",F,4K (XC),16:29.1,989.1,s,time,False
 8626124,"Gangadharan, Priya",F,800,2:11.77,131.77,s,time,False
 8626124,"Gangadharan, Priya",F,1500,4:46.36,286.36,s,time,False
