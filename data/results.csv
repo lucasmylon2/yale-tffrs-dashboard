@@ -72,6 +72,7 @@ athlete_id,athlete,gender,event,mark,value,wind,unit,kind,higher_better,place,me
 8626107,"Bravo, Antonio",M,800,1:58.33,118.33,,s,time,False,23rd,UCONN Northeast Challenge,"Apr 12-13, 2024",2024-04-12,Outdoor,2024
 8626107,"Bravo, Antonio",M,400,51.50,51.5,,s,time,False,3rd,2024 Yale vs. Harvard Dual,"Apr  6, 2024",2024-04-06,Outdoor,2024
 8626107,"Bravo, Antonio",M,4x400,3:37.69,217.69,,s,time,False,3rd,2024 Yale vs. Harvard Dual,"Apr  6, 2024",2024-04-06,Outdoor,2024
+8916174,"Cohen, Lucas",M,8k,26:02.5,1562.5,,s,time,False,160th,Lehigh Paul Short Run (College),"Oct  2, 2026",2026-10-02,Outdoor,2026
 8916174,"Cohen, Lucas",M,6k,18:51.4,1131.4,,s,time,False,30th,2026 Providence College Friar X-C Invitational,"Sep  4, 2026",2026-09-04,Outdoor,2026
 8916174,"Cohen, Lucas",M,5000,14:56.62,896.62,,s,time,False,16th,2026 Ivy League Heptagonal Outdoor Track and Field Champions,"May 16-17, 2026",2026-05-16,Outdoor,2026
 8916174,"Cohen, Lucas",M,5000,14:13.65,853.65,,s,time,False,,Penn Relays,"Apr 23-25, 2026",2026-04-23,Outdoor,2026
@@ -98,8 +99,10 @@ athlete_id,athlete,gender,event,mark,value,wind,unit,kind,higher_better,place,me
 8916174,"Cohen, Lucas",M,8k,26:57.1,1617.1,,s,time,False,168th,Wisconsin Pre-Nationals,"Oct 19, 2024",2024-10-19,Outdoor,2024
 8916174,"Cohen, Lucas",M,8k,25:18.1,1518.1,,s,time,False,179th,Lehigh Paul Short Run (College),"Oct  5, 2024",2024-10-05,Outdoor,2024
 8916174,"Cohen, Lucas",M,6k,18:18.3,1098.3,,s,time,False,7th,Harvard Yale XC 2024,"Sep  6, 2024",2024-09-06,Outdoor,2024
+9224143,"Collier, Alden",M,8k,25:38.7,1538.7,,s,time,False,29th,Lehigh Paul Short Run (College),"Oct  2, 2026",2026-10-02,Outdoor,2026
 9224143,"Collier, Alden",M,1500,4:05.30,245.3,,s,time,False,3rd,UMASS Flagship Opener,"Mar 28, 2026",2026-03-28,Indoor,2026
 9224143,"Collier, Alden",M,Mile,4:14.07,254.07,,s,time,False,17th,2026 Penn Invitational,"Jan 30, 2026",2026-01-30,Indoor,2026
+8626108,"Cutter, Daegan",M,8k,25:04.6,1504.6,,s,time,False,55th,Lehigh Paul Short Run (College),"Oct  2, 2026",2026-10-02,Outdoor,2026
 8626108,"Cutter, Daegan",M,"10,000",31:07.36,1867.36,,s,time,False,12th,2026 Ivy League Heptagonal Outdoor Track and Field Champions,"May 16-17, 2026",2026-05-16,Outdoor,2026
 8626108,"Cutter, Daegan",M,5000,14:38.68,878.68,,s,time,False,1st,Army West Point Twilight,"May  7, 2026",2026-05-07,Outdoor,2026
 8626108,"Cutter, Daegan",M,5000,14:40.41,880.41,,s,time,False,36th,Bison Outdoor Classic,"Apr 11-13, 2026",2026-04-11,Outdoor,2026
@@ -135,6 +138,7 @@ athlete_id,athlete,gender,event,mark,value,wind,unit,kind,higher_better,place,me
 8626108,"Cutter, Daegan",M,8k,24:28.3,1468.3,,s,time,False,87th,XC23 College & Open,"Oct 14, 2023",2023-10-14,Outdoor,2023
 8626108,"Cutter, Daegan",M,8k,25:13.1,1513.1,,s,time,False,1st,Codfish Bowl,"Sep 23, 2023",2023-09-23,Outdoor,2023
 8626108,"Cutter, Daegan",M,6k,18:29.9,1109.9,,s,time,False,5th,2023 HYP,"Sep  9, 2023",2023-09-09,Outdoor,2023
+8916175,"Diaz, Jack",M,8k,DNF,,,,time,False,,Lehigh Paul Short Run (College),"Oct  2, 2026",2026-10-02,Outdoor,2026
 8916175,"Diaz, Jack",M,6k,20:59.6,1259.6,,s,time,False,92nd,2026 Providence College Friar X-C Invitational,"Sep  4, 2026",2026-09-04,Outdoor,2026
 8916175,"Diaz, Jack",M,8k,DNF,,,,time,False,,Princeton Fall Classic,"Oct 17, 2025",2025-10-17,Outdoor,2025
 8916175,"Diaz, Jack",M,8k,25:29.2,1529.2,,s,time,False,99th,Paul Short Run (College),"Oct  3, 2025",2025-10-03,Outdoor,2025
@@ -142,6 +146,7 @@ athlete_id,athlete,gender,event,mark,value,wind,unit,kind,higher_better,place,me
 8916175,"Diaz, Jack",M,8k,26:53.6,1613.6,,s,time,False,172nd,2024 IC4A/ECAC XC Championship,"Oct 18, 2024",2024-10-18,Outdoor,2024
 8916175,"Diaz, Jack",M,8k,27:40.5,1660.5,,s,time,False,313th,Lehigh Paul Short Run (College),"Oct  5, 2024",2024-10-05,Outdoor,2024
 8916175,"Diaz, Jack",M,8k,27:14.9,1634.9,,s,time,False,28th,Codfish Bowl,"Sep 21, 2024",2024-09-21,Outdoor,2024
+8626109,"Fields, Amare",M,8k,27:58.9,1678.9,,s,time,False,261st,Lehigh Paul Short Run (College),"Oct  2, 2026",2026-10-02,Outdoor,2026
 8626109,"Fields, Amare",M,8k,DNS,,,,time,False,,Maribel Sanchez Souther Invitational,"Sep 19, 2026",2026-09-19,Outdoor,2026
 8626109,"Fields, Amare",M,8k,25:58.1,1558.1,,s,time,False,278th,Princeton Fall Classic,"Oct 17, 2025",2025-10-17,Outdoor,2025
 8626109,"Fields, Amare",M,8k,26:10.5,1570.5,,s,time,False,200th,Paul Short Run (College),"Oct  3, 2025",2025-10-03,Outdoor,2025
@@ -203,6 +208,7 @@ athlete_id,athlete,gender,event,mark,value,wind,unit,kind,higher_better,place,me
 8626110,"Gamble, Brian",M,8k,25:53.3,1553.3,,s,time,False,52nd,Ivy League Heptagonal Cross Country Championships,"Oct 28, 2023",2023-10-28,Outdoor,2023
 8626110,"Gamble, Brian",M,8k,25:05.8,1505.8,,s,time,False,,XC23 College & Open,"Oct 14, 2023",2023-10-14,Outdoor,2023
 8626110,"Gamble, Brian",M,8k,25:21.8,1521.8,,s,time,False,4th,Codfish Bowl,"Sep 23, 2023",2023-09-23,Outdoor,2023
+8916176,"Hom, Connor",M,8k,26:32.0,1592.0,,s,time,False,98th,Lehigh Paul Short Run (College),"Oct  2, 2026",2026-10-02,Outdoor,2026
 8916176,"Hom, Connor",M,8k,DNS,,,,time,False,,Maribel Sanchez Souther Invitational,"Sep 19, 2026",2026-09-19,Outdoor,2026
 8916176,"Hom, Connor",M,800,1:49.83,109.83,,s,time,False,5th,2026 Ivy League Heptagonal Outdoor Track and Field Champions,"May 16-17, 2026",2026-05-16,Outdoor,2026
 8916176,"Hom, Connor",M,800,1:51.04,111.03999999999999,,s,time,False,7th,2026 Ivy League Heptagonal Outdoor Track and Field Champions,"May 16-17, 2026",2026-05-16,Outdoor,2026
@@ -230,6 +236,7 @@ athlete_id,athlete,gender,event,mark,value,wind,unit,kind,higher_better,place,me
 8916176,"Hom, Connor",M,8k,26:50.3,1610.3,,s,time,False,170th,2024 IC4A/ECAC XC Championship,"Oct 18, 2024",2024-10-18,Outdoor,2024
 8916176,"Hom, Connor",M,8k,26:02.7,1562.7,,s,time,False,116th,Lehigh Paul Short Run (College),"Oct  5, 2024",2024-10-05,Outdoor,2024
 8916176,"Hom, Connor",M,6k,19:19.5,1159.5,,s,time,False,14th,Harvard Yale XC 2024,"Sep  6, 2024",2024-09-06,Outdoor,2024
+9224141,"Manley, Magnus",M,8k,25:08.1,1508.1,,s,time,False,6th,Lehigh Paul Short Run (College),"Oct  2, 2026",2026-10-02,Outdoor,2026
 9224141,"Manley, Magnus",M,6k,19:15.4,1155.4,,s,time,False,49th,2026 Providence College Friar X-C Invitational,"Sep  4, 2026",2026-09-04,Outdoor,2026
 9224141,"Manley, Magnus",M,5000,14:50.45,890.45,,s,time,False,13th,2026 Ivy League Heptagonal Outdoor Track and Field Champions,"May 16-17, 2026",2026-05-16,Outdoor,2026
 9224141,"Manley, Magnus",M,800,1:55.06,115.06,,s,time,False,11th,Army West Point Twilight,"May  7, 2026",2026-05-07,Outdoor,2026
@@ -258,6 +265,7 @@ athlete_id,athlete,gender,event,mark,value,wind,unit,kind,higher_better,place,me
 9224142,"McNulty, Sean",M,DMR,10:10.09,610.09,,s,time,False,6th,IC4A/ECAC Indoor Track & Field,"Feb  7- 8, 2026",2026-02-07,Indoor,2026
 9224142,"McNulty, Sean",M,800,1:57.53,117.53,,s,time,False,26th,2026 Penn Invitational,"Jan 30, 2026",2026-01-30,Indoor,2026
 9224142,"McNulty, Sean",M,4x400,3:24.54,204.54,,s,time,False,8th,2026 Penn Invitational,"Jan 30, 2026",2026-01-30,Indoor,2026
+8626112,"Montini, Caden",M,8k,27:02.3,1622.3,,s,time,False,152nd,Lehigh Paul Short Run (College),"Oct  2, 2026",2026-10-02,Outdoor,2026
 8626112,"Montini, Caden",M,8k,DNS,,,,time,False,,Maribel Sanchez Souther Invitational,"Sep 19, 2026",2026-09-19,Outdoor,2026
 8626112,"Montini, Caden",M,1500,DNF,,,,time,False,,UMASS Ken O'Brien Pre-Championship Invite,"Apr 25, 2026",2026-04-25,Outdoor,2026
 8626112,"Montini, Caden",M,1500,4:02.52,242.52,,s,time,False,5th,2026 Mark Young Invitational,"Apr 18, 2026",2026-04-18,Outdoor,2026
@@ -288,6 +296,7 @@ athlete_id,athlete,gender,event,mark,value,wind,unit,kind,higher_better,place,me
 8626112,"Montini, Caden",M,1500,4:08.13,248.13,,s,time,False,8th,2024 Yale vs. Harvard Dual,"Apr  6, 2024",2024-04-06,Outdoor,2024
 8626112,"Montini, Caden",M,4x400,DNF,,,,time,False,,2024 Yale vs. Harvard Dual,"Apr  6, 2024",2024-04-06,Outdoor,2024
 8626112,"Montini, Caden",M,8k,26:30.5,1590.5,,s,time,False,20th,Codfish Bowl,"Sep 23, 2023",2023-09-23,Outdoor,2023
+8916177,"Murray, Keeran",M,8k,27:32.6,1652.6,,s,time,False,206th,Lehigh Paul Short Run (College),"Oct  2, 2026",2026-10-02,Outdoor,2026
 8916177,"Murray, Keeran",M,8k,27:34.6,1654.6,,s,time,False,101st,Maribel Sanchez Souther Invitational,"Sep 19, 2026",2026-09-19,Outdoor,2026
 8916177,"Murray, Keeran",M,800,1:54.32,114.32,,s,time,False,23rd,2026 Ivy League Heptagonal Outdoor Track and Field Champions,"May 16-17, 2026",2026-05-16,Outdoor,2026
 8916177,"Murray, Keeran",M,800,1:58.89,118.89,,s,time,False,18th,Army West Point Twilight,"May  7, 2026",2026-05-07,Outdoor,2026
@@ -306,6 +315,7 @@ athlete_id,athlete,gender,event,mark,value,wind,unit,kind,higher_better,place,me
 8916177,"Murray, Keeran",M,3000,DNF,,,,time,False,,Yale Season Opener,"Dec  7, 2024",2024-12-07,Indoor,2024
 8916177,"Murray, Keeran",M,8k,26:29.2,1589.2,,s,time,False,134th,2024 IC4A/ECAC XC Championship,"Oct 18, 2024",2024-10-18,Outdoor,2024
 8916177,"Murray, Keeran",M,6k,19:36.9,1176.9,,s,time,False,15th,Harvard Yale XC 2024,"Sep  6, 2024",2024-09-06,Outdoor,2024
+9442527,"Palmore, Charlie",M,8k,26:10.8,1570.8,,s,time,False,182nd,Lehigh Paul Short Run (College),"Oct  2, 2026",2026-10-02,Outdoor,2026
 9442527,"Palmore, Charlie",M,6k,19:11.7,1151.7,,s,time,False,43rd,2026 Providence College Friar X-C Invitational,"Sep  4, 2026",2026-09-04,Outdoor,2026
 8916178,"Schutzbank, Matthew",M,1500,4:01.47,241.47,,s,time,False,24th,2026 Ivy League Heptagonal Outdoor Track and Field Champions,"May 16-17, 2026",2026-05-16,Outdoor,2026
 8916178,"Schutzbank, Matthew",M,1500,3:51.66,231.66,,s,time,False,6th,UMASS Ken O'Brien Pre-Championship Invite,"Apr 25, 2026",2026-04-25,Outdoor,2026
@@ -339,13 +349,17 @@ athlete_id,athlete,gender,event,mark,value,wind,unit,kind,higher_better,place,me
 8916178,"Schutzbank, Matthew",M,8k,25:57.6,1557.6,,s,time,False,83rd,2024 IC4A/ECAC XC Championship,"Oct 18, 2024",2024-10-18,Outdoor,2024
 8916178,"Schutzbank, Matthew",M,8k,26:18.8,1578.8,,s,time,False,145th,Lehigh Paul Short Run (College),"Oct  5, 2024",2024-10-05,Outdoor,2024
 8916178,"Schutzbank, Matthew",M,8k,26:27.6,1587.6,,s,time,False,10th,Codfish Bowl,"Sep 21, 2024",2024-09-21,Outdoor,2024
+8916179,"Seidman, Benny",M,8k,DNF,,,,time,False,,Lehigh Paul Short Run (College),"Oct  2, 2026",2026-10-02,Outdoor,2026
 8916179,"Seidman, Benny",M,8k,26:03.8,1563.8,,s,time,False,53rd,Maribel Sanchez Souther Invitational,"Sep 19, 2026",2026-09-19,Outdoor,2026
 8916179,"Seidman, Benny",M,8k,25:54.8,1554.8,,s,time,False,165th,Paul Short Run (College),"Oct  3, 2025",2025-10-03,Outdoor,2025
 8916179,"Seidman, Benny",M,8k,26:43.2,1603.2,,s,time,False,160th,2024 IC4A/ECAC XC Championship,"Oct 18, 2024",2024-10-18,Outdoor,2024
 8916179,"Seidman, Benny",M,8k,26:24.0,1584.0,,s,time,False,159th,Lehigh Paul Short Run (College),"Oct  5, 2024",2024-10-05,Outdoor,2024
 8916179,"Seidman, Benny",M,6k,19:48.6,1188.6,,s,time,False,16th,Harvard Yale XC 2024,"Sep  6, 2024",2024-09-06,Outdoor,2024
+9442539,"Siekenwitz, Colter",M,8k,26:34.5,1594.5,,s,time,False,104th,Lehigh Paul Short Run (College),"Oct  2, 2026",2026-10-02,Outdoor,2026
 9442539,"Siekenwitz, Colter",M,8k,26:27.4,1587.4,,s,time,False,65th,Maribel Sanchez Souther Invitational,"Sep 19, 2026",2026-09-19,Outdoor,2026
+9442529,"Sigworth, Blake",M,8k,27:09.9,1629.9,,s,time,False,256th,Lehigh Paul Short Run (College),"Oct  2, 2026",2026-10-02,Outdoor,2026
 9442529,"Sigworth, Blake",M,8k,26:02.1,1562.1,,s,time,False,52nd,Maribel Sanchez Souther Invitational,"Sep 19, 2026",2026-09-19,Outdoor,2026
+8626113,"Stevens, Guy",M,8k,26:53.6,1613.6,,s,time,False,241st,Lehigh Paul Short Run (College),"Oct  2, 2026",2026-10-02,Outdoor,2026
 8626113,"Stevens, Guy",M,6k,19:15.8,1155.8,,s,time,False,50th,2026 Providence College Friar X-C Invitational,"Sep  4, 2026",2026-09-04,Outdoor,2026
 8626113,"Stevens, Guy",M,1500,3:51.27,231.27,,s,time,False,15th,2026 Ivy League Heptagonal Outdoor Track and Field Champions,"May 16-17, 2026",2026-05-16,Outdoor,2026
 8626113,"Stevens, Guy",M,1500,3:50.83,230.82999999999998,,s,time,False,13th,Army West Point Twilight,"May  7, 2026",2026-05-07,Outdoor,2026
@@ -372,6 +386,7 @@ athlete_id,athlete,gender,event,mark,value,wind,unit,kind,higher_better,place,me
 8626113,"Stevens, Guy",M,1500,3:58.59,238.59,,s,time,False,4th,The Transatlantic Series - HYOC,"Apr 12, 2025",2025-04-12,Outdoor,2025
 8626113,"Stevens, Guy",M,3000,8:20.78,500.78,,s,time,False,1st,Yale Season Opener,"Dec  7, 2024",2024-12-07,Indoor,2024
 8626113,"Stevens, Guy",M,Mile,4:18.95,258.95,,s,time,False,2nd,2023 Yale Season Opener,"Dec  9, 2023",2023-12-09,Indoor,2023
+8916181,"Sutch, Seb",M,8k,26:14.7,1574.7,,s,time,False,188th,Lehigh Paul Short Run (College),"Oct  2, 2026",2026-10-02,Outdoor,2026
 8916181,"Sutch, Seb",M,6k,19:26.0,1166.0,,s,time,False,60th,2026 Providence College Friar X-C Invitational,"Sep  4, 2026",2026-09-04,Outdoor,2026
 8916181,"Sutch, Seb",M,1500,3:56.17,236.17000000000002,,s,time,False,21st,2026 Ivy League Heptagonal Outdoor Track and Field Champions,"May 16-17, 2026",2026-05-16,Outdoor,2026
 8916181,"Sutch, Seb",M,5000,14:58.47,898.47,,s,time,False,17th,2026 Ivy League Heptagonal Outdoor Track and Field Champions,"May 16-17, 2026",2026-05-16,Outdoor,2026
@@ -403,7 +418,9 @@ athlete_id,athlete,gender,event,mark,value,wind,unit,kind,higher_better,place,me
 8916181,"Sutch, Seb",M,8k,26:08.3,1568.3,,s,time,False,101st,2024 IC4A/ECAC XC Championship,"Oct 18, 2024",2024-10-18,Outdoor,2024
 8916181,"Sutch, Seb",M,8k,25:28.6,1528.6,,s,time,False,61st,Lehigh Paul Short Run (College),"Oct  5, 2024",2024-10-05,Outdoor,2024
 8916181,"Sutch, Seb",M,6k,19:16.0,1156.0,,s,time,False,13th,Harvard Yale XC 2024,"Sep  6, 2024",2024-09-06,Outdoor,2024
+9442528,"Thomas, Bodie",M,8k,26:12.7,1572.7,,s,time,False,62nd,Lehigh Paul Short Run (College),"Oct  2, 2026",2026-10-02,Outdoor,2026
 9442528,"Thomas, Bodie",M,8k,DNS,,,,time,False,,Maribel Sanchez Souther Invitational,"Sep 19, 2026",2026-09-19,Outdoor,2026
+9235651,"Thomas, James",M,8k,26:21.1,1581.1,,s,time,False,80th,Lehigh Paul Short Run (College),"Oct  2, 2026",2026-10-02,Outdoor,2026
 9235651,"Thomas, James",M,8k,DNS,,,,time,False,,Maribel Sanchez Souther Invitational,"Sep 19, 2026",2026-09-19,Outdoor,2026
 9235651,"Thomas, James",M,1500,4:07.20,247.2,,s,time,False,10th,2026 Mark Young Invitational,"Apr 18, 2026",2026-04-18,Outdoor,2026
 9235651,"Thomas, James",M,3000S,9:56.43,596.43,,s,time,False,52nd,Bison Outdoor Classic,"Apr 11-13, 2026",2026-04-11,Outdoor,2026
@@ -412,6 +429,7 @@ athlete_id,athlete,gender,event,mark,value,wind,unit,kind,higher_better,place,me
 9235651,"Thomas, James",M,Mile,4:23.29,263.29,,s,time,False,28th,IC4A/ECAC Indoor Track & Field,"Feb  7- 8, 2026",2026-02-07,Indoor,2026
 9235651,"Thomas, James",M,4x800,8:02.93,482.93,,s,time,False,7th,IC4A/ECAC Indoor Track & Field,"Feb  7- 8, 2026",2026-02-07,Indoor,2026
 9235651,"Thomas, James",M,Mile,4:19.92,259.92,,s,time,False,27th,2026 Penn Invitational,"Jan 30, 2026",2026-01-30,Indoor,2026
+9163717,"Benun, Phoebe",F,6k,21:07.9,1267.9,,s,time,False,16th,Lehigh Paul Short Run (College),"Oct  2, 2026",2026-10-02,Outdoor,2026
 9163717,"Benun, Phoebe",F,6k,21:11.6,1271.6,,s,time,False,7th,Maribel Sanchez Souther Invitational,"Sep 19, 2026",2026-09-19,Outdoor,2026
 9163717,"Benun, Phoebe",F,4k,14:53.6,893.6,,s,time,False,23rd,2026 Providence College Friar X-C Invitational,"Sep  4, 2026",2026-09-04,Outdoor,2026
 9163717,"Benun, Phoebe",F,3000S,10:36.02,636.02,,s,time,False,40th,NCAA Division I East First Rounds,"May 27-30, 2026",2026-05-27,Outdoor,2026
@@ -430,9 +448,11 @@ athlete_id,athlete,gender,event,mark,value,wind,unit,kind,higher_better,place,me
 9163717,"Benun, Phoebe",F,6k,21:00.1,1260.1,,s,time,False,45th,Princeton Fall Classic,"Oct 17, 2025",2025-10-17,Outdoor,2025
 9163717,"Benun, Phoebe",F,6k,21:17.3,1277.3,,s,time,False,100th,Paul Short Run (College),"Oct  3, 2025",2025-10-03,Outdoor,2025
 9163717,"Benun, Phoebe",F,5k,18:49.4,1129.4,,s,time,False,22nd,Iona Br. Paddy Doyle Meet of Champions,"Sep 12, 2025",2025-09-12,Outdoor,2025
+9163718,"Carter, Zoe",F,6k,23:05.6,1385.6,,s,time,False,70th,Lehigh Paul Short Run (College),"Oct  2, 2026",2026-10-02,Outdoor,2026
 9163718,"Carter, Zoe",F,6k,23:31.3,1411.3,,s,time,False,81st,Maribel Sanchez Souther Invitational,"Sep 19, 2026",2026-09-19,Outdoor,2026
 9163718,"Carter, Zoe",F,4k,16:03.5,963.5,,s,time,False,71st,2026 Providence College Friar X-C Invitational,"Sep  4, 2026",2026-09-04,Outdoor,2026
 9163718,"Carter, Zoe",F,5k,20:18.6,1218.6,,s,time,False,49th,Iona Br. Paddy Doyle Meet of Champions,"Sep 12, 2025",2025-09-12,Outdoor,2025
+8626125,"Chadwick, Hebe",F,6k,20:46.2,1246.2,,s,time,False,9th,Lehigh Paul Short Run (College),"Oct  2, 2026",2026-10-02,Outdoor,2026
 8626125,"Chadwick, Hebe",F,6k,20:53.9,1253.9,,s,time,False,1st,Maribel Sanchez Souther Invitational,"Sep 19, 2026",2026-09-19,Outdoor,2026
 8626125,"Chadwick, Hebe",F,4k,14:56.2,896.2,,s,time,False,24th,2026 Providence College Friar X-C Invitational,"Sep  4, 2026",2026-09-04,Outdoor,2026
 8626125,"Chadwick, Hebe",F,1500,4:25.36,265.36,,s,time,False,8th,2026 Ivy League Heptagonal Outdoor Track and Field Champions,"May 16-17, 2026",2026-05-16,Outdoor,2026
@@ -470,10 +490,12 @@ athlete_id,athlete,gender,event,mark,value,wind,unit,kind,higher_better,place,me
 8626125,"Chadwick, Hebe",F,6k,21:44.6,1304.6,,s,time,False,27th,XC23 College & Open,"Oct 14, 2023",2023-10-14,Outdoor,2023
 8626125,"Chadwick, Hebe",F,6k,21:42.8,1302.8,,s,time,False,97th,Lehigh Paul Short Run (College),"Sep 30, 2023",2023-09-30,Outdoor,2023
 8626125,"Chadwick, Hebe",F,5k,18:33.7,1113.7,,s,time,False,2nd,Codfish Bowl,"Sep 23, 2023",2023-09-23,Outdoor,2023
+9439994,"Douglas, Naomi",F,6k,21:27.3,1287.3,,s,time,False,34th,Lehigh Paul Short Run (College),"Oct  2, 2026",2026-10-02,Outdoor,2026
 9439994,"Douglas, Naomi",F,6k,21:30.3,1290.3,,s,time,False,10th,Maribel Sanchez Souther Invitational,"Sep 19, 2026",2026-09-19,Outdoor,2026
 9439994,"Douglas, Naomi",F,4k,14:59.2,899.2,,s,time,False,28th,2026 Providence College Friar X-C Invitational,"Sep  4, 2026",2026-09-04,Outdoor,2026
 9439993,"Frawley, Emily",F,6k,DNS,,,,time,False,,Maribel Sanchez Souther Invitational,"Sep 19, 2026",2026-09-19,Outdoor,2026
 9439993,"Frawley, Emily",F,4k,16:29.1,989.1,,s,time,False,78th,2026 Providence College Friar X-C Invitational,"Sep  4, 2026",2026-09-04,Outdoor,2026
+8626124,"Gangadharan, Priya",F,6k,23:34.5,1414.5,,s,time,False,108th,Lehigh Paul Short Run (College),"Oct  2, 2026",2026-10-02,Outdoor,2026
 8626124,"Gangadharan, Priya",F,6k,22:57.1,1377.1,,s,time,False,57th,Maribel Sanchez Souther Invitational,"Sep 19, 2026",2026-09-19,Outdoor,2026
 8626124,"Gangadharan, Priya",F,800,2:18.11,138.11,,s,time,False,23rd,2026 Ivy League Heptagonal Outdoor Track and Field Champions,"May 16-17, 2026",2026-05-16,Outdoor,2026
 8626124,"Gangadharan, Priya",F,4x800,8:45.32,525.32,,s,time,False,3rd,2026 Ivy League Heptagonal Outdoor Track and Field Champions,"May 16-17, 2026",2026-05-16,Outdoor,2026
@@ -507,11 +529,13 @@ athlete_id,athlete,gender,event,mark,value,wind,unit,kind,higher_better,place,me
 8626124,"Gangadharan, Priya",F,6k,23:42.7,1422.7,,s,time,False,188th,IC4A/ECAC XC Championship,"Oct 13, 2023",2023-10-13,Outdoor,2023
 8626124,"Gangadharan, Priya",F,5k,20:11.2,1211.2,,s,time,False,29th,Codfish Bowl,"Sep 23, 2023",2023-09-23,Outdoor,2023
 8626124,"Gangadharan, Priya",F,4k,DNF,,,,time,False,,2023 HYP,"Sep  9, 2023",2023-09-09,Outdoor,2023
+8916247,"Heijnen, Charo",F,6k,23:03.8,1383.8,,s,time,False,68th,Lehigh Paul Short Run (College),"Oct  2, 2026",2026-10-02,Outdoor,2026
 8916247,"Heijnen, Charo",F,6k,DNS,,,,time,False,,Maribel Sanchez Souther Invitational,"Sep 19, 2026",2026-09-19,Outdoor,2026
 8916247,"Heijnen, Charo",F,Mile,5:13.06,313.06,,s,time,False,11th,2026 Penn Invitational,"Jan 30, 2026",2026-01-30,Indoor,2026
 8916247,"Heijnen, Charo",F,Mile,5:10.48,310.48,,s,time,False,5th,Yale-Dartmouth-Columbia,"Jan 17, 2026",2026-01-17,Indoor,2026
 8916247,"Heijnen, Charo",F,6k,22:14.5,1334.5,,s,time,False,217th,Lehigh Paul Short Run (College),"Oct  5, 2024",2024-10-05,Outdoor,2024
 8916247,"Heijnen, Charo",F,4k,14:44.7,884.7,,s,time,False,5th,Harvard Yale XC 2024,"Sep  6, 2024",2024-09-06,Outdoor,2024
+8626123,"Henderson, Daniella",F,6k,22:02.8,1322.8,,s,time,False,90th,Lehigh Paul Short Run (College),"Oct  2, 2026",2026-10-02,Outdoor,2026
 8626123,"Henderson, Daniella",F,6k,22:04.5,1324.5,,s,time,False,25th,Maribel Sanchez Souther Invitational,"Sep 19, 2026",2026-09-19,Outdoor,2026
 8626123,"Henderson, Daniella",F,4k,15:36.9,936.9,,s,time,False,53rd,2026 Providence College Friar X-C Invitational,"Sep  4, 2026",2026-09-04,Outdoor,2026
 8626123,"Henderson, Daniella",F,1500,4:37.38,277.38,,s,time,False,21st,2026 Ivy League Heptagonal Outdoor Track and Field Champions,"May 16-17, 2026",2026-05-16,Outdoor,2026
@@ -569,6 +593,7 @@ athlete_id,athlete,gender,event,mark,value,wind,unit,kind,higher_better,place,me
 8626123,"Henderson, Daniella",F,6k,22:58.5,1378.5,,s,time,False,256th,Lehigh Paul Short Run (College),"Sep 30, 2023",2023-09-30,Outdoor,2023
 8626123,"Henderson, Daniella",F,5k,19:22.8,1162.8,,s,time,False,13th,Codfish Bowl,"Sep 23, 2023",2023-09-23,Outdoor,2023
 8626123,"Henderson, Daniella",F,4k,15:13.0,913.0,,s,time,False,28th,2023 HYP,"Sep  9, 2023",2023-09-09,Outdoor,2023
+8916248,"Jin, Lily",F,6k,22:18.8,1338.8,,s,time,False,21st,Lehigh Paul Short Run (College),"Oct  2, 2026",2026-10-02,Outdoor,2026
 8916248,"Jin, Lily",F,6k,23:20.1,1400.1,,s,time,False,74th,Maribel Sanchez Souther Invitational,"Sep 19, 2026",2026-09-19,Outdoor,2026
 8916248,"Jin, Lily",F,4k,15:56.4,956.4,,s,time,False,66th,2026 Providence College Friar X-C Invitational,"Sep  4, 2026",2026-09-04,Outdoor,2026
 8916248,"Jin, Lily",F,3000,10:36.75,636.75,,s,time,False,9th,2026 Penn Invitational,"Jan 30, 2026",2026-01-30,Indoor,2026
@@ -589,6 +614,7 @@ athlete_id,athlete,gender,event,mark,value,wind,unit,kind,higher_better,place,me
 8916248,"Jin, Lily",F,6k,22:43.4,1363.4,,s,time,False,49th,Lehigh Paul Short Run (College),"Oct  5, 2024",2024-10-05,Outdoor,2024
 8916248,"Jin, Lily",F,5k,19:24.7,1164.7,,s,time,False,11th,Codfish Bowl,"Sep 21, 2024",2024-09-21,Outdoor,2024
 8916248,"Jin, Lily",F,4k,15:56.5,956.5,,s,time,False,22nd,Harvard Yale XC 2024,"Sep  6, 2024",2024-09-06,Outdoor,2024
+8916249,"Lovshin, Muriel",F,6k,22:06.2,1326.2,,s,time,False,14th,Lehigh Paul Short Run (College),"Oct  2, 2026",2026-10-02,Outdoor,2026
 8916249,"Lovshin, Muriel",F,6k,22:52.5,1372.5,,s,time,False,53rd,Maribel Sanchez Souther Invitational,"Sep 19, 2026",2026-09-19,Outdoor,2026
 8916249,"Lovshin, Muriel",F,6k,22:39.7,1359.7,,s,time,False,198th,Princeton Fall Classic,"Oct 17, 2025",2025-10-17,Outdoor,2025
 8916249,"Lovshin, Muriel",F,6k,22:07.9,1327.9,,s,time,False,33rd,Paul Short Run (College),"Oct  3, 2025",2025-10-03,Outdoor,2025
@@ -597,6 +623,7 @@ athlete_id,athlete,gender,event,mark,value,wind,unit,kind,higher_better,place,me
 8916249,"Lovshin, Muriel",F,6k,21:16.2,1276.2,,s,time,False,83rd,Lehigh Paul Short Run (College),"Oct  5, 2024",2024-10-05,Outdoor,2024
 8916249,"Lovshin, Muriel",F,4k,14:41.1,881.1,,s,time,False,4th,Harvard Yale XC 2024,"Sep  6, 2024",2024-09-06,Outdoor,2024
 8916250,"Marchand, Katie",F,6k,DNS,,,,time,False,,Maribel Sanchez Souther Invitational,"Sep 19, 2026",2026-09-19,Outdoor,2026
+8916251,"Martonfi, Zoe",F,6k,21:42.6,1302.6,,s,time,False,57th,Lehigh Paul Short Run (College),"Oct  2, 2026",2026-10-02,Outdoor,2026
 8916251,"Martonfi, Zoe",F,6k,21:46.4,1306.4,,s,time,False,19th,Maribel Sanchez Souther Invitational,"Sep 19, 2026",2026-09-19,Outdoor,2026
 8916251,"Martonfi, Zoe",F,4k,14:49.7,889.7,,s,time,False,19th,2026 Providence College Friar X-C Invitational,"Sep  4, 2026",2026-09-04,Outdoor,2026
 8916251,"Martonfi, Zoe",F,3000S,10:25.88,625.88,,s,time,False,34th,NCAA Division I East First Rounds,"May 27-30, 2026",2026-05-27,Outdoor,2026
@@ -639,6 +666,7 @@ athlete_id,athlete,gender,event,mark,value,wind,unit,kind,higher_better,place,me
 8916251,"Martonfi, Zoe",F,4k,15:22.5,922.5,,s,time,False,16th,Harvard Yale XC 2024,"Sep  6, 2024",2024-09-06,Outdoor,2024
 9439992,"Ostfeld, Vivian",F,6k,DNS,,,,time,False,,Maribel Sanchez Souther Invitational,"Sep 19, 2026",2026-09-19,Outdoor,2026
 9439992,"Ostfeld, Vivian",F,4k,16:36.6,996.6,,s,time,False,80th,2026 Providence College Friar X-C Invitational,"Sep  4, 2026",2026-09-04,Outdoor,2026
+8916252,"Piot, Julie",F,6k,22:19.4,1339.4,,s,time,False,23rd,Lehigh Paul Short Run (College),"Oct  2, 2026",2026-10-02,Outdoor,2026
 8916252,"Piot, Julie",F,6k,DNS,,,,time,False,,Maribel Sanchez Souther Invitational,"Sep 19, 2026",2026-09-19,Outdoor,2026
 8916252,"Piot, Julie",F,4k,15:37.7,937.7,,s,time,False,55th,2026 Providence College Friar X-C Invitational,"Sep  4, 2026",2026-09-04,Outdoor,2026
 8916252,"Piot, Julie",F,3000,10:14.42,614.42,,s,time,False,9th,UConn Dog Fight,"Apr  4, 2026",2026-04-04,Outdoor,2026
@@ -648,7 +676,9 @@ athlete_id,athlete,gender,event,mark,value,wind,unit,kind,higher_better,place,me
 9163719,"Polay, Sophie",F,6k,DNS,,,,time,False,,Maribel Sanchez Souther Invitational,"Sep 19, 2026",2026-09-19,Outdoor,2026
 9163719,"Polay, Sophie",F,3000,10:48.92,648.92,,s,time,False,12th,2026 Penn Invitational,"Jan 30, 2026",2026-01-30,Indoor,2026
 9163719,"Polay, Sophie",F,3000,10:15.14,615.14,,s,time,False,10th,Dr. Sander Scorcher / Columbia Challenge,"Jan 23-24, 2026",2026-01-23,Indoor,2026
+9439995,"Prusak, Anna",F,6k,21:22.3,1282.3,,s,time,False,28th,Lehigh Paul Short Run (College),"Oct  2, 2026",2026-10-02,Outdoor,2026
 9439995,"Prusak, Anna",F,6k,DNS,,,,time,False,,Maribel Sanchez Souther Invitational,"Sep 19, 2026",2026-09-19,Outdoor,2026
+8916253,"Sanok Dufallo, Sylvie",F,6k,22:53.1,1373.1,,s,time,False,178th,Lehigh Paul Short Run (College),"Oct  2, 2026",2026-10-02,Outdoor,2026
 8916253,"Sanok Dufallo, Sylvie",F,6k,22:26.7,1346.7,,s,time,False,34th,Maribel Sanchez Souther Invitational,"Sep 19, 2026",2026-09-19,Outdoor,2026
 8916253,"Sanok Dufallo, Sylvie",F,4k,15:37.0,937.0,,s,time,False,54th,2026 Providence College Friar X-C Invitational,"Sep  4, 2026",2026-09-04,Outdoor,2026
 8916253,"Sanok Dufallo, Sylvie",F,800,2:13.46,133.46,,s,time,False,15th,2026 Ivy League Heptagonal Outdoor Track and Field Champions,"May 16-17, 2026",2026-05-16,Outdoor,2026
@@ -696,6 +726,7 @@ athlete_id,athlete,gender,event,mark,value,wind,unit,kind,higher_better,place,me
 8916253,"Sanok Dufallo, Sylvie",F,4k,15:13.3,913.3,,s,time,False,13th,Harvard Yale XC 2024,"Sep  6, 2024",2024-09-06,Outdoor,2024
 9163720,"Svihalkova, Adela",F,6k,DNS,,,,time,False,,Maribel Sanchez Souther Invitational,"Sep 19, 2026",2026-09-19,Outdoor,2026
 9163720,"Svihalkova, Adela",F,4k,15:46.5,946.5,,s,time,False,60th,2026 Providence College Friar X-C Invitational,"Sep  4, 2026",2026-09-04,Outdoor,2026
+8626122,"Vilatoro, Kalista",F,6k,22:35.7,1355.7,,s,time,False,42nd,Lehigh Paul Short Run (College),"Oct  2, 2026",2026-10-02,Outdoor,2026
 8626122,"Vilatoro, Kalista",F,6k,22:58.2,1378.2,,s,time,False,60th,Maribel Sanchez Souther Invitational,"Sep 19, 2026",2026-09-19,Outdoor,2026
 8626122,"Vilatoro, Kalista",F,6k,21:54.8,1314.8,,s,time,False,202nd,Paul Short Run (College),"Oct  3, 2025",2025-10-03,Outdoor,2025
 8626122,"Vilatoro, Kalista",F,5k,20:33.4,1233.4,,s,time,False,8th,Fordham Fiasco 2025,"Sep  6, 2025",2025-09-06,Outdoor,2025
