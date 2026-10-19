@@ -13,6 +13,7 @@ athlete_id,athlete,gender,event,mark,value,unit,kind,higher_better
 8626107,"Bravo, Antonio",M,800,1:52.88,112.88,s,time,False
 8626107,"Bravo, Antonio",M,1500,4:10.32,250.32,s,time,False
 8626107,"Bravo, Antonio",M,JT,"41.47m 136' 1""",41.47,m,distance,True
+8626107,"Bravo, Antonio",M,8K (XC),28:21.5,1701.5,s,time,False
 8916174,"Cohen, Lucas",M,1500,3:57.89,237.89,s,time,False
 8916174,"Cohen, Lucas",M,MILE,4:13.20,253.2,s,time,False
 8916174,"Cohen, Lucas",M,3000,8:20.92,500.92,s,time,False
@@ -36,7 +37,7 @@ athlete_id,athlete,gender,event,mark,value,unit,kind,higher_better
 8916175,"Diaz, Jack",M,6K (XC),20:59.6,1259.6,s,time,False
 8916175,"Diaz, Jack",M,8K (XC),25:29.2,1529.2,s,time,False
 8916175,"Diaz, Jack",M,5 MILE (XC),27:21.3,1641.3,s,time,False
-8626109,"Fields, Amare",M,8K (XC),25:58.1,1558.1,s,time,False
+8626109,"Fields, Amare",M,8K (XC),25:53.4,1553.4,s,time,False
 8626110,"Gamble, Brian",M,800,1:50.72,110.72,s,time,False
 8626110,"Gamble, Brian",M,1000,2:26.06,146.06,s,time,False
 8626110,"Gamble, Brian",M,1500,3:45.20,225.2,s,time,False
@@ -55,7 +56,7 @@ athlete_id,athlete,gender,event,mark,value,unit,kind,higher_better
 9224141,"Manley, Magnus",M,3000,8:06.68,486.68,s,time,False
 9224141,"Manley, Magnus",M,5000,14:03.92,843.92,s,time,False
 9224141,"Manley, Magnus",M,6K (XC),19:15.4,1155.4,s,time,False
-9224141,"Manley, Magnus",M,8K (XC),24:49.5,1489.5,s,time,False
+9224141,"Manley, Magnus",M,8K (XC),24:41.4,1481.4,s,time,False
 9224141,"Manley, Magnus",M,10K (XC),30:42.0,1842.0,s,time,False
 9224142,"McNulty, Sean",M,800,1:52.77,112.77000000000001,s,time,False
 9224142,"McNulty, Sean",M,MILE,4:22.25,262.25,s,time,False
@@ -64,14 +65,14 @@ athlete_id,athlete,gender,event,mark,value,unit,kind,higher_better
 8626112,"Montini, Caden",M,1500,3:52.58,232.57999999999998,s,time,False
 8626112,"Montini, Caden",M,MILE,4:09.46,249.46,s,time,False
 8626112,"Montini, Caden",M,3000,8:34.06,514.06,s,time,False
-8626112,"Montini, Caden",M,8K (XC),26:30.5,1590.5,s,time,False
+8626112,"Montini, Caden",M,8K (XC),26:17.8,1577.8,s,time,False
 8916177,"Murray, Keeran",M,800,1:52.46,112.46000000000001,s,time,False
 8916177,"Murray, Keeran",M,1000,2:24.66,144.66,s,time,False
 8916177,"Murray, Keeran",M,MILE,4:13.56,253.56,s,time,False
 8916177,"Murray, Keeran",M,6K (XC),19:36.9,1176.9,s,time,False
 8916177,"Murray, Keeran",M,8K (XC),26:29.2,1589.2,s,time,False
 9442527,"Palmore, Charlie",M,6K (XC),19:11.7,1151.7,s,time,False
-9442527,"Palmore, Charlie",M,8K (XC),26:10.8,1570.8,s,time,False
+9442527,"Palmore, Charlie",M,8K (XC),25:16.7,1516.7,s,time,False
 8916178,"Schutzbank, Matthew",M,800,1:55.07,115.07,s,time,False
 8916178,"Schutzbank, Matthew",M,1000,2:28.05,148.05,s,time,False
 8916178,"Schutzbank, Matthew",M,1500,3:51.15,231.15,s,time,False
@@ -80,8 +81,8 @@ athlete_id,athlete,gender,event,mark,value,unit,kind,higher_better
 8916178,"Schutzbank, Matthew",M,8K (XC),25:02.0,1502.0,s,time,False
 8916179,"Seidman, Benny",M,6K (XC),19:48.6,1188.6,s,time,False
 8916179,"Seidman, Benny",M,8K (XC),25:54.8,1554.8,s,time,False
-9442539,"Siekenwitz, Colter",M,8K (XC),26:27.4,1587.4,s,time,False
-9442529,"Sigworth, Blake",M,8K (XC),26:02.1,1562.1,s,time,False
+9442539,"Siekenwitz, Colter",M,8K (XC),25:37.4,1537.4,s,time,False
+9442529,"Sigworth, Blake",M,8K (XC),25:19.0,1519.0,s,time,False
 8626113,"Stevens, Guy",M,1500,3:49.61,229.61,s,time,False
 8626113,"Stevens, Guy",M,MILE,4:13.83,253.83,s,time,False
 8626113,"Stevens, Guy",M,3000,8:20.78,500.78,s,time,False
@@ -97,12 +98,12 @@ athlete_id,athlete,gender,event,mark,value,unit,kind,higher_better
 8916181,"Sutch, Seb",M,6K (XC),19:16.0,1156.0,s,time,False
 8916181,"Sutch, Seb",M,8K (XC),24:51.2,1491.2,s,time,False
 8916181,"Sutch, Seb",M,5 MILE (XC),26:26.0,1586.0,s,time,False
-9442528,"Thomas, Bodie",M,8K (XC),26:12.7,1572.7,s,time,False
+9442528,"Thomas, Bodie",M,8K (XC),25:41.1,1541.1,s,time,False
 9235651,"Thomas, James",M,1500,4:07.20,247.2,s,time,False
 9235651,"Thomas, James",M,MILE,4:19.92,259.92,s,time,False
 9235651,"Thomas, James",M,3000,9:11.52,551.52,s,time,False
 9235651,"Thomas, James",M,3000S,9:56.43,596.43,s,time,False
-9235651,"Thomas, James",M,8K (XC),26:21.1,1581.1,s,time,False
+9235651,"Thomas, James",M,8K (XC),25:55.0,1555.0,s,time,False
 9163717,"Benun, Phoebe",F,MILE,4:51.49,291.49,s,time,False
 9163717,"Benun, Phoebe",F,3000,9:21.66,561.66,s,time,False
 9163717,"Benun, Phoebe",F,5000,16:22.98,982.98,s,time,False
@@ -112,7 +113,7 @@ athlete_id,athlete,gender,event,mark,value,unit,kind,higher_better
 9163717,"Benun, Phoebe",F,6K (XC),20:34.8,1234.8,s,time,False
 9163718,"Carter, Zoe",F,4K (XC),16:03.5,963.5,s,time,False
 9163718,"Carter, Zoe",F,5K (XC),20:18.6,1218.6,s,time,False
-9163718,"Carter, Zoe",F,6K (XC),23:05.6,1385.6,s,time,False
+9163718,"Carter, Zoe",F,6K (XC),22:45.2,1365.2,s,time,False
 8626125,"Chadwick, Hebe",F,1500,4:24.49,264.49,s,time,False
 8626125,"Chadwick, Hebe",F,MILE,4:48.13,288.13,s,time,False
 8626125,"Chadwick, Hebe",F,3000,9:25.70,565.7,s,time,False
@@ -120,7 +121,7 @@ athlete_id,athlete,gender,event,mark,value,unit,kind,higher_better
 8626125,"Chadwick, Hebe",F,5K (XC),18:33.5,1113.5,s,time,False
 8626125,"Chadwick, Hebe",F,6K (XC),20:35.1,1235.1,s,time,False
 9439994,"Douglas, Naomi",F,4K (XC),14:59.2,899.2,s,time,False
-9439994,"Douglas, Naomi",F,6K (XC),21:27.3,1287.3,s,time,False
+9439994,"Douglas, Naomi",F,6K (XC),21:14.0,1274.0,s,time,False
 9439993,"Frawley, Emily",F,4K (XC),16:29.1,989.1,s,time,False
 8626124,"Gangadharan, Priya",F,800,2:11.77,131.77,s,time,False
 8626124,"Gangadharan, Priya",F,1500,4:46.36,286.36,s,time,False
@@ -143,7 +144,7 @@ athlete_id,athlete,gender,event,mark,value,unit,kind,higher_better
 8916248,"Jin, Lily",F,3000,10:21.30,621.3,s,time,False
 8916248,"Jin, Lily",F,4K (XC),15:56.4,956.4,s,time,False
 8916248,"Jin, Lily",F,5K (XC),19:24.7,1164.7,s,time,False
-8916248,"Jin, Lily",F,6K (XC),21:53.0,1313.0,s,time,False
+8916248,"Jin, Lily",F,6K (XC),21:51.3,1311.3,s,time,False
 8916249,"Lovshin, Muriel",F,MILE,5:11.57,311.57,s,time,False
 8916249,"Lovshin, Muriel",F,4K (XC),14:41.1,881.1,s,time,False
 8916249,"Lovshin, Muriel",F,6K (XC),21:16.2,1276.2,s,time,False
@@ -159,9 +160,9 @@ athlete_id,athlete,gender,event,mark,value,unit,kind,higher_better
 9439992,"Ostfeld, Vivian",F,4K (XC),16:36.6,996.6,s,time,False
 8916252,"Piot, Julie",F,3000,10:14.42,614.42,s,time,False
 8916252,"Piot, Julie",F,4K (XC),15:01.5,901.5,s,time,False
-8916252,"Piot, Julie",F,6K (XC),22:19.4,1339.4,s,time,False
+8916252,"Piot, Julie",F,6K (XC),21:41.9,1301.9,s,time,False
 9163719,"Polay, Sophie",F,3000,10:15.14,615.14,s,time,False
-9439995,"Prusak, Anna",F,6K (XC),21:22.3,1282.3,s,time,False
+9439995,"Prusak, Anna",F,6K (XC),21:03.7,1263.7,s,time,False
 8916253,"Sanok Dufallo, Sylvie",F,800,2:09.63,129.63,s,time,False
 8916253,"Sanok Dufallo, Sylvie",F,1000,2:53.48,173.48,s,time,False
 8916253,"Sanok Dufallo, Sylvie",F,1500,4:36.44,276.44,s,time,False
