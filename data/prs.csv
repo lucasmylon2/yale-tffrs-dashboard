@@ -22,9 +22,6 @@ athlete_id,athlete,gender,event,mark,value,unit,kind,higher_better
 8916174,"Cohen, Lucas",M,8K (XC),24:23.0,1463.0,s,time,False
 8916174,"Cohen, Lucas",M,10K (XC),30:31.6,1831.6,s,time,False
 8916174,"Cohen, Lucas",M,5 MILE (XC),26:06.9,1566.9,s,time,False
-9224143,"Collier, Alden",M,1500,4:05.30,245.3,s,time,False
-9224143,"Collier, Alden",M,MILE,4:14.07,254.07,s,time,False
-9224143,"Collier, Alden",M,8K (XC),25:38.7,1538.7,s,time,False
 8626108,"Cutter, Daegan",M,800,2:00.81,120.81,s,time,False
 8626108,"Cutter, Daegan",M,MILE,4:14.74,254.74,s,time,False
 8626108,"Cutter, Daegan",M,3000,8:17.31,497.31,s,time,False
