@@ -53,7 +53,7 @@ athlete_id,athlete,gender,event,mark,value,unit,kind,higher_better
 9224141,"Manley, Magnus",M,3000,8:06.68,486.68,s,time,False
 9224141,"Manley, Magnus",M,5000,14:03.92,843.92,s,time,False
 9224141,"Manley, Magnus",M,6K (XC),19:15.4,1155.4,s,time,False
-9224141,"Manley, Magnus",M,8K (XC),24:41.4,1481.4,s,time,False
+9224141,"Manley, Magnus",M,8K (XC),24:28.1,1468.1,s,time,False
 9224141,"Manley, Magnus",M,10K (XC),30:42.0,1842.0,s,time,False
 9224142,"McNulty, Sean",M,800,1:52.77,112.77000000000001,s,time,False
 9224142,"McNulty, Sean",M,MILE,4:22.25,262.25,s,time,False
@@ -78,8 +78,8 @@ athlete_id,athlete,gender,event,mark,value,unit,kind,higher_better
 8916178,"Schutzbank, Matthew",M,8K (XC),25:02.0,1502.0,s,time,False
 8916179,"Seidman, Benny",M,6K (XC),19:48.6,1188.6,s,time,False
 8916179,"Seidman, Benny",M,8K (XC),25:54.8,1554.8,s,time,False
-9442539,"Siekenwitz, Colter",M,8K (XC),25:37.4,1537.4,s,time,False
-9442529,"Sigworth, Blake",M,8K (XC),25:19.0,1519.0,s,time,False
+9442539,"Siekenwitz, Colter",M,8K (XC),25:07.8,1507.8,s,time,False
+9442529,"Sigworth, Blake",M,8K (XC),25:12.2,1512.2,s,time,False
 8626113,"Stevens, Guy",M,1500,3:49.61,229.61,s,time,False
 8626113,"Stevens, Guy",M,MILE,4:13.83,253.83,s,time,False
 8626113,"Stevens, Guy",M,3000,8:20.78,500.78,s,time,False
